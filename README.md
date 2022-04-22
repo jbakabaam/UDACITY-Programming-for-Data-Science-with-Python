@@ -10,7 +10,7 @@ This repository contains projects did for 'Udacity Programming for Data Science 
 ---
 ### Overview:
 _The Sakila_ Movie database is a SQL database of online DVD rentals.  
-Quried the database to answer questions about business decisions.
+Queried the database to answer questions about business decisions.
 
 
 ### Project Details:
