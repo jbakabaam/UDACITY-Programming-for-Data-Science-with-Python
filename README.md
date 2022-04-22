@@ -24,7 +24,7 @@ Source: http://www.postgresqltutorial.com/postgresql-sample-database/
 ⭐️ Project 2: Explore US Bikeshare Data
 ---
 ### Overview:
-Used Python to understand U.S. bikeshare data.  
+Used Python to understand _U.S. bikeshare_ data.  
 Calculated statistics and build an interactive environment where a user chooses the data and filter for a dataset to analyze.
 
 ### Project Details:
