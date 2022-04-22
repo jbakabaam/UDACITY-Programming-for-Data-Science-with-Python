@@ -1,4 +1,4 @@
-UDACITY-Programming-for-Data_Science-with-Python
+UDACITY-Programming-for-Data-Science-with-Python
 ===
 ![](https://github.com/jbakabaam/UDACITY-Programming-for-Data-Science-with-Python/blob/master/Images/temp.jpeg?raw=true)
 
