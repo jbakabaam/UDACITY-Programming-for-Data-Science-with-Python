@@ -9,8 +9,8 @@ This repository contains projects did for 'Udacity Programming for Data Science 
 ⭐️ Project 1: Investigate a Relational Database
 ---
 ### Overview:
-Used Python to understand U.S. bikeshare data.  
-Calculated statistics and build an interactive environment where a user chooses the data and filter for a dataset to analyze.
+_The Sakila_ Movie database is a SQL database of online DVD rentals.  
+Quried the database to answer questions about business decisions.
 
 
 ### Project Details:
