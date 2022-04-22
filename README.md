@@ -13,5 +13,3 @@ In this project, you will query the Sakila DVD Rental database. The Sakila Datab
 Project 2:
 ---
 
-Verified Certificate Completion
----
