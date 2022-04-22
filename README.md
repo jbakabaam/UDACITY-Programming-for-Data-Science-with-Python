@@ -4,7 +4,7 @@ UDACITY-Programming-for-Data-Science-with-Python
 
 Created by Jun Buhm Lee
 ---
-This repository contains projects did for Udacity Programming For Data Science With Python Nanodegree.
+This repository contains projects did for 'Udacity Programming for Data Science with Python' Nanodegree.
 
 ⭐️ Project 1: Investigate a Relational Database
 ---
