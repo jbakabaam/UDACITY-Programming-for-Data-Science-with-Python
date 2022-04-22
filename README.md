@@ -9,7 +9,7 @@ This repository contains projects did for 'Udacity Programming for Data Science 
 ⭐️ Project 1: Investigate a Relational Database
 ---
 ### Overview:
-The __Sakila Movie Database__ is a SQL database of online DVD rentals.  
+The _Sakila Movie Database_ is a SQL database of online DVD rentals.  
 I quried the database to answer questions about business decisions.
 
 
