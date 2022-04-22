@@ -1,6 +1,6 @@
-UDACITY_Programming_for_Data_Science_with_Python
+UDACITY-Programming-for-Data_Science-with-Python
 ===
 
-### Created by JBL
+Created by JBL
 ---
-###### This repository contains projects did for Udacity Programming For Data Science With Python Nanodegree.
+This repository contains projects did for Udacity Programming For Data Science With Python Nanodegree.
