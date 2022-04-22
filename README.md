@@ -6,7 +6,7 @@ Created by JBAKABAAM
 ---
 This repository contains projects did for Udacity Programming For Data Science With Python Nanodegree.
 
-Project 1: Investigate a Relational Database
+⭐️ Project 1: Investigate a Relational Database
 ---
 ### Overview:
 In this project, you will use SQL to explore a database related to movie rentals.  
@@ -22,7 +22,7 @@ As part of your project submission, you will run SQL queries and build visualiza
 ![](https://github.com/jbakabaam/UDACITY-Programming-for-Data-Science-with-Python/blob/master/Images/dvd-rental-erd-2.png?raw=true)  
 Source: http://www.postgresqltutorial.com/postgresql-sample-database/
 
-Project 2: Explore US Bikeshare Data
+⭐️ Project 2: Explore US Bikeshare Data
 ---
 ### Overview:
 In this project, you will make use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington.  
