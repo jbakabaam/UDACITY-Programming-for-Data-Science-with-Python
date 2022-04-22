@@ -2,7 +2,7 @@ UDACITY-Programming-for-Data-Science-with-Python
 ===
 ![](https://github.com/jbakabaam/UDACITY-Programming-for-Data-Science-with-Python/blob/master/Images/temp.jpeg?raw=true)
 
-Created by JBAKABAAM
+Created by Jun Buhm Lee
 ---
 This repository contains projects did for Udacity Programming For Data Science With Python Nanodegree.
 
