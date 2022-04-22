@@ -9,6 +9,9 @@ This repository contains projects did for Udacity Programming For Data Science W
 Project 1: Investigate a Relational Database
 ---
 ### Overview:
+
+
+### Project Details:
 - Have a question of interest.
 - Have a supporting SQL query needed to answer the question.
 - Have a supporting visualization created using the final data of your SQL query that answers your question of interest.
